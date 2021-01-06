@@ -1,0 +1,109 @@
+
+body{
+    margin: 0px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.text-align-right{
+    text-align: right;
+    word-spacing: 30px;
+
+}
+.name-color1{
+    color:blue ;
+}
+.name-color2{
+    color: coral;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+
+}
+.half-width img{
+    width: 100%;
+
+}
+.top-banner{
+    border-left: 100px;
+    border-right: 200px;
+    height: 500px;
+    background-repeat: no-repeat;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700px;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+}
+
+.half-width img{
+    width: 70%;
+}
+
+.third-half-width{
+    
+    width: 20%;
+    float: left;
+    margin-left: 5%;
+    padding:10px 20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 6px;
+    height: 75%;
+    background-color: white;
+    font-weight: 700px;
+
+
+}
+
+section{
+    height: 500px;
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+}
+.third-half-width img{
+    width: 100%;
+}
+#middle-text{
+    text-align: center;
+    color: tomato;
+}
+.last-division{
+    height: 400px;
+    padding: 30px;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: white;
+    text-align: right;
+  
+    
+    
+
+}
+.last-section{
+    width: 70%;
+    margin: 150px;
+    background-image: url(shapes/Group_33094_1.png);
+    background-size: contain;
+    vertical-align: middle;
+}
+.left-align{
+    text-align: left;
+}
+.button-align{
+    text-align: right;
+}
+.footer-align{
+    text-align: center;
+}
+
+
+
+
+
